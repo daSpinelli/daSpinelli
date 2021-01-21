@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Social Medias -->
+You can find me on [![LinkedIn][1.1]][1].
+
+<!-- Icons -->
+[1.1]: https://raw.githubusercontent.com/daSpinelli/daSpinelli/master/icons/linkedin.png (LinkedIn icon without padding)
+
+<!-- Links to social media accounts -->
+[1]: https://www.linkedin.com/in/dennydaspinelli
