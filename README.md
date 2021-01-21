@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 You can find me on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
-[1.1]: https://raw.githubusercontent.com/daSpinelli/daSpinelli/master/icons/linkedin.png (LinkedIn icon without padding)
+[1.1]: https://i.stack.imgur.com/gVE0j.png (Denny's LinkedIn profile)
 
 <!-- Links to social media accounts -->
 [1]: https://www.linkedin.com/in/dennydaspinelli
