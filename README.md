@@ -1,4 +1,4 @@
-# Hello, you! Welcome to my desk!
+# Hello, world! Welcome to my desk!
 
 ___
 ### Just a little more about me
