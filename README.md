@@ -1,7 +1,8 @@
+<!-- Introducing -->
 # Hello, world! Welcome to my desk!
 
 ___
-### Just a little more about me
+## Just a little about me!
 
 🔭 I am working on a clustering project to determine which customers is able to participate of a loyalty program.
 
@@ -12,10 +13,49 @@ ___
 ⚡ You should to know: I love playing (video games, boarding games, chess) as much as I love traveling and programming.
 
 ___
-<h2 align="center">
-  If you want to ask me something, you can find me on:
-</h1>
+<!-- Projects -->
+## Take a look at my projects! 🎨
+
+### [House Rocket](https://github.com/daSpinelli/Python-Zero-DS)
+This project provides insights through an exploratory data analysis (EDA) of a database from a company that buys and sells houses in Seattle WA, EUA.
+I used:
+- Python to build all the EDA;
+- Heroku to deploy;
+- And the Streamlit to navigate through the results.
+
+
+### [Rossmann](https://github.com/daSpinelli/dsEmProd)
+This project creates an machine learning model to predict the sales for the next 6 months from a multi store company.
+I used:
+- Python to build all the EDA and modeling;
+- XGBoost was the machine learning model chosen;
+- Heroku to deploy;
+- A bot telegram to access the result of prediction.
+
+### [Super Customers](#) (In progress...)
+This project will result in clusters (groups) of customers in a database from an e-commerce company.
+The goal of clustering this customers is to find out the ones who is able to participate of a loyalty program, the super customers.
+I used:
+- Python to build clustering and all the EDA;
+- Random Forest Regressor as embedding;
+- Gaussian Mixture Model was the machine learning model chosen.
+
+I will use:
+- Heroku or AWS to deploy;
+- Power Bi or Tableu to navigate through the results.
+
+
+This project is still in progress in my GitLab. As soon as I finish it I will push it here.
+
+___ 
 <!-- Social Medias -->
+<h2 align="center">
+  If you want to ask me something
+  
+  or add something on my projects...
+  
+  You can find me on:
+</h2>
 
 <div align="center">
   
