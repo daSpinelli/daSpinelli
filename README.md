@@ -1,5 +1,5 @@
 <!-- Introducing -->
-# Hello, world! Welcome to my desk!
+# Hello, world! Welcome!
 
 ___
 ## Just a little about me!
