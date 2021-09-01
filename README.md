@@ -8,7 +8,7 @@ ___
 
 🌱 By now I am studying data science, math for data science, web scraping, machine learning models, embedding.
 
-😄 Fun Fact: **Denny** is not a Brazilian name, then I need to spell it everywhere but even so I am regularly called as Dener, Denis, Deni, etc.
+😄 Fun Fact: I usually speak nonsense things when I am sleepy.
 
 ⚡ You should to know: I love playing (video games, boarding games, chess) as much as I love traveling and programming.
 
