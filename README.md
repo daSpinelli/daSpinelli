@@ -17,7 +17,7 @@ ___
 ## Take a look at my projects!
 
 ### [House Rocket](https://github.com/daSpinelli/Python-Zero-DS)
-This project provides insights through an exploratory data analysis (EDA) of a database from a company that buys and sells houses in Seattle WA, EUA.
+This project provides insights through an exploratory data analysis (EDA) of a database from a company that buys and sells houses in Seattle WA, USA.
 I used:
 - Python to build all the EDA;
 - Heroku to deploy;
