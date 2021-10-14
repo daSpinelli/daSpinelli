@@ -24,7 +24,7 @@ I used:
 - And the Streamlit to navigate through the results.
 
 
-### [Rossmann](https://github.com/daSpinelli/dsEmProd)
+### [Rossmann](https://github.com/daSpinelli/Rossmann-Sales-Prediction)
 This project creates an machine learning model to predict the sales for the next 6 months from a multi store company.
 I used:
 - Python to build all the EDA and modeling;
