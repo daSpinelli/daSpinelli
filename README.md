@@ -16,14 +16,6 @@ ___
 <!-- Projects -->
 ## Take a look at my projects!
 
-### [House Rocket](https://github.com/daSpinelli/Python-Zero-DS)
-This project provides insights through an exploratory data analysis (EDA) of a database from a company that buys and sells houses in Seattle WA, USA.
-I used:
-- Python to build all the EDA;
-- Heroku to deploy;
-- And the Streamlit to navigate through the results.
-
-
 ### [Rossmann](https://github.com/daSpinelli/Rossmann-Sales-Prediction)
 This project creates an machine learning model to predict the sales for the next 6 months from a multi store company.
 I used:
@@ -31,6 +23,13 @@ I used:
 - XGBoost was the machine learning model chosen;
 - Heroku to deploy;
 - A bot telegram to access the result of prediction.
+
+### [House Rocket](https://github.com/daSpinelli/Python-Zero-DS)
+This project provides insights through an exploratory data analysis (EDA) of a database from a company that buys and sells houses in Seattle WA, USA.
+I used:
+- Python to build all the EDA;
+- Heroku to deploy;
+- And the Streamlit to navigate through the results.
 
 ### [Super Customers](#) (In progress...)
 This project will result in clusters (groups) of customers in a database from an e-commerce company.
