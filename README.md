@@ -10,14 +10,14 @@ ___
 
 😄 Fun Fact: I usually speak nonsense things when I am sleepy.
 
-⚡ You should to know: I love playing (video games, boarding games, chess) as much as I love traveling and programming.
+⚡ You should to know: I love playing (video games, board games, chess) as much as I love traveling and programming.
 
 ___
 <!-- Projects -->
 ## Take a look at my projects!
 
 ### [Rossmann](https://github.com/daSpinelli/Rossmann-Sales-Prediction)
-This project creates an machine learning model to predict the sales for the next 6 months from a multi store company.
+This project creates a machine learning model to predict the sales for the next 6 months from a multi store company.
 I used:
 - Python to build all the EDA and modeling;
 - XGBoost was the machine learning model chosen;
@@ -33,7 +33,7 @@ I used:
 
 ### [Super Customers](#) (In progress...)
 This project will result in clusters (groups) of customers in a database from an e-commerce company.
-The goal of clustering this customers is to find out the ones who is able to participate of a loyalty program, the super customers.
+The goal of clustering this customers is to find out the ones who is ellegible to participate of a loyalty program, the super customers.
 I used:
 - Python to build clustering and all the EDA;
 - Random Forest Regressor as embedding;
