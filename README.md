@@ -24,12 +24,11 @@ I used:
 - Heroku to deploy;
 - A bot telegram to access the result of prediction.
 
-### [House Rocket](https://github.com/daSpinelli/Python-Zero-DS)
+### [House Rocket](https://github.com/daSpinelli/house_rocket)
 This project provides insights through an exploratory data analysis (EDA) of a database from a company that buys and sells houses in Seattle WA, USA.
 I used:
 - Python to build all the EDA;
-- Heroku to deploy;
-- And the Streamlit to navigate through the results.
+- Random Forest Regressor was the machine learning model chosen;
 
 ### [Super Customers](#) (In progress...)
 This project will result in clusters (groups) of customers in a database from an e-commerce company.
